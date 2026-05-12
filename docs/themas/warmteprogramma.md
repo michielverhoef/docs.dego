@@ -1,6 +1,7 @@
 ---
 title: "Warmteprogramma"
 layout: thema-page-with-side-nav
+versiedatum: 12-05-2026
 ---
 # Warmteprogramma
 De [Datavoorziening Energietransitie Gebouwde Omgeving](https://dego.vng.nl/) (DEGO) helpt gemeenten onder andere aan data en inzichten die gebruikt kunnen worden bij het opstellen en monitoren van het warmteprogramma. Met diverse kaartlagen geeft DEGO inzicht in de bouwtechnische en energetische informatie van de gebouwde omgeving die relevant kan zijn voor het warmteprogramma en de monitoring en uitvoering daarvan. Deze gebruikersdocumentatie geeft meer achtergrond over het warmteprogramma en hoe DEGO hierbij kan ondersteunen. Per onderwerp (kaartlaag) wordt inzichtelijk gemaakt welke data en inzichten beschikbaar zijn en hoe dit kan helpen bij het warmteprogramma.

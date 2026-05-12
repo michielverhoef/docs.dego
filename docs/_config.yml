@@ -68,9 +68,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: michielverhoef/jekyll-theme-vngrealisatie-kcdenm
+remote_theme: VNG-Realisatie/jekyll-theme-vngrealisatie-kcdenm
 
-github: michielverhoef/docs.dego
+github: VNG-Realisatie/docs.dego
 
 theme: jekyll-theme-time-machine
 
